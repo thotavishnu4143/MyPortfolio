@@ -1,0 +1,42 @@
+footer {
+    background-color: #424242; /* Charcoal Gray background */
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+footer ul li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+footer ul li a {
+    color: #ffffff; /* White text */
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
+}
+
+footer ul li a:hover {
+    color: #ff9933; /* Light Orange on hover */
+}
+
+footer p {
+    color: #ffffff;
+    font-size: 1em;
+}
+
+footer p a {
+    color: #ffffff; /* White for links */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+footer p a:hover {
+    color: #ff9933; /* Light Orange on hover */
+}
